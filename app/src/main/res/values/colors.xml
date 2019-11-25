@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/mist</color>
+    <color name="colorPrimaryDark">@color/blue_gray</color>
+    <color name="colorAccent">@color/tangerine</color>
+    <color name="white">#FFFFFF</color>
+    <color name="mist">#90AFC5</color>
+    <color name="stone">#336B87</color>
+    <color name="shadow">#2A3132</color>
+    <color name="autumn">#763626</color>
+    <color name="deep_aqua">#003B46</color>
+    <color name="wave">#66A5AD</color>
+    <color name="indigo">#2D4262</color>
+    <color name="blush">#D09683</color>
+    <color name="golden_rod">#DB9501</color>
+    <color name="navy">#00293C</color>
+    <color name="pc_blue">#1E656D</color>
+    <color name="slate">#626D71</color>
+    <color name="ceramic">#CDCDC0</color>
+    <color name="latte">#DDBC95</color>
+    <color name="coffee">#B38867</color>
+    <color name="tangerine">#F69454</color>
+    <color name="cayenne">#AF4425</color>
+    <color name="cinnamon">#662E1C</color>
+    <color name="onion">#FD974F</color>
+    <color name="mushroom">#FEF2E4</color>
+    <color name="wood">#805A3B</color>
+    <color name="blue_gray">#8593AE</color>
+    <color name="steel">#5A4E4D</color>
+    <color name="pewter">#7E675E</color>
+</resources>
